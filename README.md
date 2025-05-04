@@ -2,7 +2,7 @@
 
 ### About me 
 
-I'm a Junior Game Programmer. With knowledge on Object Oriented Programming, Interpreted Programming Languages, scripting, and developing games in Unity. Experience in developing 2D and 3D games of different genres.
+I'm a junior game programmer. With Knowledge on Object Oriented Programming, Interpreted Programming Languatges, scripting, creating custom Unity Shaders using HLSL and shadergraph, and developing games in Unity. Experience in developing 2D and 3D games of different genres.
 
 ### Projects
 
