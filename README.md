@@ -24,17 +24,42 @@ I'm a junior game programmer. With Knowledge on Object Oriented Programming, Int
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,lua,python,github,unity,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=cs,lua,markdown,unity,unreal" />
+  </a>
+   <a href="https://www.svgrepo.com/show/373663/hlsl.svg">
+    <img src="https://www.svgrepo.com/show/373663/hlsl.svg", width=50>
+  </a>
+  <a href="https://www.renpy.org/">
+    <img src="https://www.renpy.org/static/index-logo.png", width=30>
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,visualstudio,vscode" />
   </a>
 </p>
-### Projects
 
 
-<projects>
-    <img src = "https://img.itch.zone/aW1nLzE2Njc3NDAzLnBuZw==/315x250%23c/6es1%2Fl.png" alt="Fizzle's Tale" width=250 height=250 style="margin-right:30px"> 
-    <img src = "https://img.itch.zone/aW1nLzEyNTMyMzMxLmpwZw==/original/3mDSHN.jpg" alt="Osiris" width=250 height=250 style="margin-right:30px">  
-    <img src = "https://img.itch.zone/aW1hZ2UvMTc5MDI1OC8xMDUyMDMzNy5wbmc=/original/WpsuG2.png" alt="Siestalipsis" width=250 height=250>  
-</projects>
+
+
+### 🎇Projects
+---
+
+#### Tavern Tales
+---
+
+#### Water Shader
+---
+
+#### Fizzle's Tale
+---
+<img src = "https://img.itch.zone/aW1nLzE2Njc3NDAzLnBuZw==/315x250%23c/6es1%2Fl.png" alt="Fizzle's Tale" width=250 height=250 style="margin-right:30px"> 
+
+#### Osiris
+---
+<img src = "https://img.itch.zone/aW1nLzEyNTMyMzMxLmpwZw==/original/3mDSHN.jpg" alt="Osiris" width=250 height=250 style="margin-right:30px">  
+
+#### Siestalipsis
+---
+<img src = "https://img.itch.zone/aW1hZ2UvMTc5MDI1OC8xMDUyMDMzNy5wbmc=/original/WpsuG2.png" alt="Siestalipsis" width=250 height=250> 
 
 ### Connect with me:
 <div align="center">
