@@ -37,31 +37,43 @@ I'm a junior game programmer. With Knowledge on Object Oriented Programming, Int
   </a>
 </p>
 
-
-
-
 ### 🎇Projects
 ---
 
 #### Tavern Tales
 ---
+<a href="https://itch.io/queue/c/3723760/zalgazors-collection?game_id=3379209">
+  <img src = "https://img.itch.zone/aW1hZ2UvMzM3OTIwOS8yMDE3MTQ4MC5wbmc=/original/V73MWq.png" alt="Fizzle's Tale" width=250 tyle="margin-right:30px"> 
+</a>
 
-#### Water Shader
----
+A short visual novel where you play as a nihilist poet. Developed in Ren'Py.
 
 #### Fizzle's Tale
 ---
-<img src = "https://img.itch.zone/aW1nLzE2Njc3NDAzLnBuZw==/315x250%23c/6es1%2Fl.png" alt="Fizzle's Tale" width=250 height=250 style="margin-right:30px"> 
+<a href="https://itch.io/queue/c/3723760/zalgazors-collection?game_id=2788872">
+  <img src = "https://img.itch.zone/aW1nLzE2Njc3NDAzLnBuZw==/315x250%23c/6es1%2Fl.png" alt="Fizzle's Tale" width=250 height=250 style="margin-right:30px"> 
+</a>
+
+A First-Person Puzzle Plattformer where you explore some misterious underwater ruins. Developed in Unity. 
 
 #### Osiris
 ---
+<a href="https://itch.io/queue/c/3723760/zalgazors-collection?game_id=2127241">
 <img src = "https://img.itch.zone/aW1nLzEyNTMyMzMxLmpwZw==/original/3mDSHN.jpg" alt="Osiris" width=250 height=250 style="margin-right:30px">  
+</a>
+
+A 2D Puzzle-Plattformer with an Egipthian thematic, where you create portals to cross a dungeon. Developed in Unity. 
 
 #### Siestalipsis
 ---
+<a href="https://itch.io/queue/c/3723760/zalgazors-collection?game_id=1790258">
 <img src = "https://img.itch.zone/aW1hZ2UvMTc5MDI1OC8xMDUyMDMzNy5wbmc=/original/WpsuG2.png" alt="Siestalipsis" width=250 height=250> 
+</a>
 
-### Connect with me:
+A 2D puzzle-platformer based in a zombie apocalypse in
+Andalusia, Spain, with comedic features. Programmed in LUA and using Löve library.
+
+### 📱Connect with me:
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/%C3%A0lex-salue%C3%B1a-pujolr%C3%A0s-01b820227)
