@@ -3,17 +3,16 @@
   alt="header"/>
 </div>
 
-<div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=5DE2E78&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Zalgazor;aka+Àlex+Salueña;Welcome+to+my+profile!" alt="Typing SVG" /></a>
-</div>
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&color=5DE2E78&size=35&center=true&vCenter=true&width=500&height=100&lines=Hey%2C+I'm+Zalgazor;aka+Àlex+Salueña;Welcome+to+my+profile!""></a>
+</p>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 👨🏻‍💻 About me 
 
-I'm a junior game programmer. With Knowledge on Object Oriented Programming, Interpreted Programming Languatges, scripting, creating custom Unity Shaders using HLSL and shadergraph, and developing games in Unity. Experience in developing 2D and 3D games of different genres.
+🎓 Currently studying a bachelors degree in Game Development.<br>💪 Passionate programmer ready for any challenge.<br>✨ I Have an interest in design patterns and programming game mechanics.<br>🎮 Focused on creating games using Unity engine.
 
 <!--horizontal divider(gradiant)-->
 
@@ -34,6 +33,9 @@ I'm a junior game programmer. With Knowledge on Object Oriented Programming, Int
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,visualstudio,vscode" />
+  </a>
+  <a href="https://dashboard.snapcraft.io/site_media/appmedia/2022/02/icon-large-512.png">
+    <img src="https://dashboard.snapcraft.io/site_media/appmedia/2022/02/icon-large-512.png", width=50>
   </a>
 </p>
 
