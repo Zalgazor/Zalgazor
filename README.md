@@ -12,7 +12,7 @@
 
 ### 👨🏻‍💻 About me 
 
-🎓 Currently studying a bachelors degree in Game Development.<br>💪 Passionate programmer ready for any challenge.<br>✨ I Have an interest in design patterns and programming game mechanics.<br>🎮 Focused on creating games using Unity engine.
+🎓 Currently studying for a bachelor's degree in Game Development.<br>💪 Passionate programmer ready for any challenge.<br>✨ I Have an interest in design patterns and programming game mechanics.<br>🎮 Focused on creating games using the Unity engine.
 
 <!--horizontal divider(gradiant)-->
 
@@ -56,7 +56,7 @@ A short visual novel where you play as a nihilist poet. Developed in Ren'Py.
   <img src = "https://img.itch.zone/aW1nLzE2Njc3NDAzLnBuZw==/315x250%23c/6es1%2Fl.png" alt="Fizzle's Tale" width=250 height=250 style="margin-right:30px"> 
 </a>
 
-A First-Person Puzzle Plattformer where you explore some misterious underwater ruins. Developed in Unity. 
+A First-Person puzzle platformer where you explore some mysterious underwater ruins. Developed in Unity. 
 
 #### Osiris
 ---
@@ -64,7 +64,7 @@ A First-Person Puzzle Plattformer where you explore some misterious underwater r
 <img src = "https://img.itch.zone/aW1nLzEyNTMyMzMxLmpwZw==/original/3mDSHN.jpg" alt="Osiris" width=250 height=250 style="margin-right:30px">  
 </a>
 
-A 2D Puzzle-Plattformer with an Egipthian thematic, where you create portals to cross a dungeon. Developed in Unity. 
+A 2D puzzle platformer with an Egypthian thematic, where you create portals to cross a dungeon. Developed in Unity. 
 
 #### Siestalipsis
 ---
@@ -72,7 +72,7 @@ A 2D Puzzle-Plattformer with an Egipthian thematic, where you create portals to 
 <img src = "https://img.itch.zone/aW1hZ2UvMTc5MDI1OC8xMDUyMDMzNy5wbmc=/original/WpsuG2.png" alt="Siestalipsis" width=250 height=250> 
 </a>
 
-A 2D puzzle-platformer based in a zombie apocalypse in
+A 2D puzzle platformer based on a zombie apocalypse in
 Andalusia, Spain, with comedic features. Programmed in LUA and using Löve library.
 
 ### 📱Connect with me:
