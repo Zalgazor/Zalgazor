@@ -45,7 +45,7 @@
 #### Tavern Tales
 ---
 <a href="https://itch.io/queue/c/3723760/zalgazors-collection?game_id=3379209">
-  <img src = "https://img.itch.zone/aW1hZ2UvMzM3OTIwOS8yMDE3MTQ4MC5wbmc=/original/V73MWq.png" alt="Fizzle's Tale" width=250 tyle="margin-right:30px"> 
+  <img src = "https://img.itch.zone/aW1hZ2UvMzM3OTIwOS8yMDE3MTQ4MC5wbmc=/original/V73MWq.png" alt="Tavern Tales" width=250 tyle="margin-right:30px"> 
 </a>
 
 A short visual novel where you play as a nihilist poet. Developed in Ren'Py.
